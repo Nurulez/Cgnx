@@ -1,5 +1,4 @@
-# Cgnx
-ToDoList Server
+# ToDoList Server
 
 To run the project in VS Code, follow these steps:
 
